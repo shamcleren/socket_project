@@ -1,6 +1,6 @@
 # 基于Socket.io的测试学习项目
 
-    * 聊天室 by http://blog.fens.me/nodejs-socketio-chat/
+> * 聊天室 by http://blog.fens.me/nodejs-socketio-chat/
 
 ## 聊天室
 
