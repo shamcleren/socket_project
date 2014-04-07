@@ -8,7 +8,7 @@ nodejs + socket.io + express
 
 ### 开启服务器防火墙
 
-``bash    
+```bash    
 $ vi /etc/sysconfig/iptables
 
 # Firewall configuration written by system-config-firewall
@@ -29,10 +29,10 @@ $ vi /etc/sysconfig/iptables
 COMMIT
 
 $ service iptables restart
-``
+```
 
 ### 查看防火墙状态
 
-``bash
+```bash
 $ service iptables status
-``
+```
